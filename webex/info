@@ -1,0 +1,14 @@
+# GNOME shortcut name
+NAME="Webex"
+
+# Used for descriptions and window class
+FULL_NAME="Webex"
+
+# The executable inside windows
+WIN_EXECUTABLE="C:\Users\fuseteam\AppData\Local\Programs\Cisco Spark\CiscoCollabHost.exe"
+
+# GNOME categories
+CATEGORIES="WinApps;Webex"
+
+# GNOME mimetypes
+MIME_TYPES="application/vnd.ms-outlook;application/octet-stream;"
