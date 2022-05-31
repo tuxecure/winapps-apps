@@ -59,7 +59,7 @@ Note: The officially configured application list below is fueled by the communit
     <td><img src="vs-enterprise-2019/icon.svg" width="100"></td><td>Visual Studio<br>(2019 - Ent|Pro|Com)</td>
   </tr>
   <tr>
-    <td><img src="icons/windows.svg" width="100"></td><td>Windows<br>(Full RDP session)</td>
+    <td><img src="windows/windows.svg" width="100"></td><td>Windows<br>(Full RDP session)</td>
     <td>&nbsp;</td><td>&nbsp;</td>
   </tr>
 </table>

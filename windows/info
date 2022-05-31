@@ -1,0 +1,12 @@
+# GNOME shortcut name
+NAME="Windows"
+
+# Used for descriptions and window class
+FULL_NAME="Microsoft Windows"
+
+# The executable inside windows
+WIN_EXECUTABLE="windows"
+
+# GNOME categories
+CATEGORIES="Windows"
+
