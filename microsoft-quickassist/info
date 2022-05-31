@@ -1,0 +1,20 @@
+# GNOME shortcut name
+NAME="Quick Assist"
+
+# Used for descriptions and window class
+FULL_NAME="Quick Assist"
+
+# The executable inside windows
+WIN_EXECUTABLE="explorer.exe"
+
+UWP_NAME="MicrosoftCorporationII.QuickAssist"
+
+PACKAGE_FAMILY_NAME="MicrosoftCorporationII.QuickAssist_8wekyb3d8bbwe"
+
+APP_ID="App"
+
+# GNOME categories
+CATEGORIES="WinApps;Windows"
+
+# GNOME mimetypes
+MIME_TYPES=""
