@@ -1,0 +1,20 @@
+# GNOME shortcut name
+NAME="JW Library"
+
+# Used for descriptions and window class
+FULL_NAME="JW Library"
+
+# The executable inside windows
+WIN_EXECUTABLE="explorer.exe"
+
+UWP_NAME="WatchtowerBibleandTractSo.45909CDBADF3C"
+
+PACKAGE_FAMILY_NAME="WatchtowerBibleandTractSo.45909CDBADF3C_5rz59y55nfz3e"
+
+APP_ID="App"
+
+# GNOME categories
+CATEGORIES="WinApps;Watchtower"
+
+# GNOME mimetypes
+MIME_TYPES=""
